@@ -1,0 +1,12 @@
+C:\Users\ayoub\source\repos\ConsoleUIGuestBookHomeworkApp\GuestBookLibrary\bin\Debug\net6.0\GuestBookLibrary.deps.json
+C:\Users\ayoub\source\repos\ConsoleUIGuestBookHomeworkApp\GuestBookLibrary\bin\Debug\net6.0\GuestBookLibrary.dll
+C:\Users\ayoub\source\repos\ConsoleUIGuestBookHomeworkApp\GuestBookLibrary\bin\Debug\net6.0\GuestBookLibrary.pdb
+C:\Users\ayoub\source\repos\ConsoleUIGuestBookHomeworkApp\GuestBookLibrary\obj\Debug\net6.0\GuestBookLibrary.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\ConsoleUIGuestBookHomeworkApp\GuestBookLibrary\obj\Debug\net6.0\GuestBookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayoub\source\repos\ConsoleUIGuestBookHomeworkApp\GuestBookLibrary\obj\Debug\net6.0\GuestBookLibrary.AssemblyInfoInputs.cache
+C:\Users\ayoub\source\repos\ConsoleUIGuestBookHomeworkApp\GuestBookLibrary\obj\Debug\net6.0\GuestBookLibrary.AssemblyInfo.cs
+C:\Users\ayoub\source\repos\ConsoleUIGuestBookHomeworkApp\GuestBookLibrary\obj\Debug\net6.0\GuestBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\ConsoleUIGuestBookHomeworkApp\GuestBookLibrary\obj\Debug\net6.0\GuestBookLibrary.dll
+C:\Users\ayoub\source\repos\ConsoleUIGuestBookHomeworkApp\GuestBookLibrary\obj\Debug\net6.0\refint\GuestBookLibrary.dll
+C:\Users\ayoub\source\repos\ConsoleUIGuestBookHomeworkApp\GuestBookLibrary\obj\Debug\net6.0\GuestBookLibrary.pdb
+C:\Users\ayoub\source\repos\ConsoleUIGuestBookHomeworkApp\GuestBookLibrary\obj\Debug\net6.0\ref\GuestBookLibrary.dll
